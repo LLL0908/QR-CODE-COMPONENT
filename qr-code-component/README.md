@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](images\screenshot.png)
+[screenshot](images\screenshot.png)
 
 ## My process
 
@@ -37,11 +37,8 @@ text-align: text-align CSS property sets the horizontal alignment of the inline-
 
 To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
 Place the object in the middle of the page
+```css
 .proud-of-this-css {
   position: absolute;
   top: 50%;
@@ -56,7 +53,7 @@ I'm still not familiar with the methods of controling the items' position. And I
 
 ### Useful resources
 
-- [Example resource 1](https://fonts.google.com/selection/embed) - This helped me for choosing the font style.
+- [google font](https://fonts.google.com/selection/embed) - This helped me for choosing the font style.
 
 
 ## Author
