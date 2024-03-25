@@ -1,0 +1,66 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    display: felx;
+    justify-content: center;
+    align-items: center;
+}
+
+.attribution {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+.qrcode {
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    flex-direction: column;
+    height: 500px;
+    width: 350px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container {
+    width: 90%;
+    height: 60%;
+    background-image: url('images/image-qr-code.png');
+    background-size: cover;
+    border-radius: 20px;
+    margin: 10px;
+    margin-bottom: none;
+
+}
+
+.p1 {
+    font-size: 1.4em;
+    font-family: "Lilita One", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    width: 80%;
+    text-align: center;
+    margin: 5px;
+}
+
+.p2 {
+    font-size: 1em;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    width: 80%;
+    text-align: center;
+    margin: 5px;
+    color: hsl(220, 15%, 55%);
+    margin-top: 20px;
+}
